@@ -2,6 +2,14 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-venukumar-sindhu-20871623b/)
 
+I am a Data professional currently working in public sector (Drug and Alcohol Services). I have MSc in Data Science and Bachelors in Mechanical Engineering
+
+I am fascinated by the use of tools in Data Science and ML in practically every field, especially in Health sector.
+
+I am currently learning ways to effectively use data methods to find solutions to real world problems
+
+You can reach out to me via my LinkedIn profile which can be accessed by clicking the icon above!
+
 <!--
 **abhishekvs95/abhishekvs95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
